@@ -21,3 +21,8 @@ Gotta learn a lot.
 Gonna figure it out more as I go.
 I will primarily be using VS Code for Python as I use it to learn Node JS too and Python version 3.9.x
 Without further ado lets get this show on the road.
+
+
+# Test
+This is using a branch to change the README.md file to create changes and see how to work with the Branch and Pull features for github.
+Also need to learn more about markdown syntax as well.
